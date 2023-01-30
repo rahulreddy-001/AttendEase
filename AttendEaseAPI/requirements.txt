@@ -1,0 +1,7 @@
+face_recognition==1.3.0
+Flask==2.0.3
+numpy==1.24.1
+pymongo==4.0
+gunicorn
+dnspython
+pytz
