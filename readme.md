@@ -8,7 +8,9 @@ This app uses MongoDB, a NoSQL database, to store its data. MongoDB is a documen
 
 ## Demo
 
-[Demo](https://drive.google.com/file/d/1CIv5KpUPwNo3WE_sQuIlzMycZV548S5D/view?usp=sharing)
+[![Demo](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOQ8WeJva_fkqZ-79pDgMKVsC5jTTaKeh2dHaeo-CAAWpFqolWVI6ETbvClLFV_K4slffUOc1M4ybef9pldt3kPRLuCaDw=w1920-h1080-k-pd)](https://drive.google.com/file/d/1CIv5KpUPwNo3WE_sQuIlzMycZV548S5D/preview)
+
+`Click to play`
 
 ## Built With
 
