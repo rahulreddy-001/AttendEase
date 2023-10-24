@@ -7,7 +7,7 @@ The backend for this app is built using the Flask framework, utilizing the Dlib 
 This app uses MongoDB, a NoSQL database, to store its data. MongoDB is a document-oriented database, which provides a flexible and scalable solution for data storage and retrieval.
 
 ## Demo
-<p  align="center" >
+<p  align="center" target="_blank">
     <a href="https://drive.google.com/file/d/1CIv5KpUPwNo3WE_sQuIlzMycZV548S5D/preview">
         <img src="https://i.ibb.co/y8byShn/Screenshot-from-2023-10-24-11-17-41.png" alt="demo" >
     </a>
